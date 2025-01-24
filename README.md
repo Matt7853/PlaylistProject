@@ -5,3 +5,5 @@
 
 
     ![Tux, the glorious Linux mascot](/assets/images/Tux.png)
+    ![Duke, the Rocket Powered Java mascot](/assets/images/Duke.png)
+    ![KEIIIIIIIIITHHHHHHHH](/assets/images/KEITH.png)
